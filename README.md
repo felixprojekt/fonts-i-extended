@@ -1,6 +1,6 @@
 # fonts-i-extended
 ## EN
-Collection of fonts I extended with some Czech diacritical mark.
+Collection of fonts I extended with some Czech diacritical marks.
 ## CZ
 Kolekce fontů, pro které jsem podle potřeby přidělal některá diakritická znaménka.
 ## Software
